@@ -1,10 +1,14 @@
 ### Hi, I'm Lucas Vottchevitch 👋
-```js
-const LucasVottche = {
-  code: [HTML, CSS, Java],
-  technologies: [Technical Support, Web programmer]
-  }
-  ```
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+
+-  **Learning :** Web Programmer :zap:	
+-  **Languages :** Java, HTML, CSS
+-  **Hobbies :** Soccer ⚽ , Music :headphones: & Games
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organization :** Technojam
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
 **LucasVottche/LucasVottche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
