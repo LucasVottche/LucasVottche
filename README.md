@@ -6,7 +6,7 @@
 
 -  **Learning :** Web Programmer :zap:	
 -  **Languages :** Java, HTML, CSS
--  **Hobbies :** Soccer ⚽ , Music :headphones: & Games
+-  **Hobbies :** Soccer ⚽ , Music :headphones: & Games :video_game:
 -  **Fact :** First solve the problem, then write the code :sunglasses:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!--
