@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Vottchevitch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucasvottchevitch//)](https://www.linkedin.com/in/lucasvottchevitch/) [![Gmail Badge](https://img.shields.io/badge/-vottchelucas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vottchelucas@gmail.com)](mailto:vottchelucas@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+### About me
 
 -  **Learning :** Web Programmer :zap:
 -  **I’m currently learning :** Java, Python, HTML, CSS
