@@ -5,7 +5,7 @@
 ### About
 
 -  **Learning :** Web Programmer :zap:
--  **I’m currently learning :** Java
+-  **I’m currently learning :** Java, Python, HTML, CSS
 -  **I’m currently working on :** Technical Support
 -  **Languages :** Java, HTML, CSS
 -  **Hobbies :** Soccer ⚽ , Music :headphones: & Games :video_game:
