@@ -7,6 +7,7 @@
 -  **Learning :** Web Programmer :zap:
 -  **I’m currently learning :** Java, Python, HTML, CSS
 -  **I’m currently working a :** Technical Support
+-  **i'm studying :** Systems Analyst
 -  **Languages :** Java, HTML, CSS
 -  **Hobbies :** Soccer ⚽ , Music :headphones: & Games :video_game:
 -  **Fact :** First solve the problem, then write the code :sunglasses:
