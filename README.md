@@ -2,7 +2,7 @@
 ```js
 const LucasVottche = {
   code: [HTML, CSS, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  technologies: [Technical Support, Web programmer]
   }
   ```
 <!--
