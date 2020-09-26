@@ -4,7 +4,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About me
 
--  **Learning :** Web Programmer :zap:
 -  **I’m currently learning :** Java, Python, HTML, CSS
 -  **I’m currently working a :** Technical Support
 -  **I’m studying :** Systems Analyst
