@@ -5,9 +5,8 @@ const LucasVottche = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   }
   ```
-    You can fin me 
+  :smirk:
 <!--
-
 **LucasVottche/LucasVottche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
